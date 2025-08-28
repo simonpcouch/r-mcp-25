@@ -1,4 +1,4 @@
-# Slides: R and the Model Context Protocol <a href="github.com/simonpcouch/r-mcp-25"><img src="figures/chores-hex.png" align="right" height="250" alt="Hex wall" /></a>
+# Slides: R and the Model Context Protocol <a href="github.com/simonpcouch/r-mcp-25"><img src="figures/mcptools-hex.png" align="right" height="250" alt="mcptools hex" /></a>
 
 Source code and slides for "R and the Model Context Protocol." This is a talk about mcptools, a package written in collaboration with Winston Chang and Charlie Gao.
 
