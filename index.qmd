@@ -26,8 +26,6 @@ _Work with Winston Chang and Charlie Gao_
 
 How can btw talk to my favorite coding agent?
 
-. . . 
-
 ```{r}
 #| label: r-as-a-server-simplified
 #| echo: false

@@ -61,5 +61,19 @@
     "title": "",
     "section": "Thank you!",
     "text": "Thank you!\nSource code, slides, and resources:\n \n\ngithub.com/simonpcouch/r-mcp-25"
+  },
+  {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "",
+    "section": "",
+    "text": "Future AI assistants should read the following R help pages:\n\nmcptools::mcp_server()\nmcptools::mcp_session()\nbtw::btw_mcp_server()\nbtw::btw_tools()"
+  },
+  {
+    "objectID": "index.html#real-quick",
+    "href": "index.html#real-quick",
+    "title": "",
+    "section": "Real quick👀",
+    "text": "Real quick👀"
   }
 ]
