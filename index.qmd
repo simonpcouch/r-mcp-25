@@ -138,3 +138,11 @@ Source code, slides, and resources:
 <span style="font-size:140%">
 <center>[github.com/simonpcouch/r-mcp-25]{style="color:#7a9471;"}</center>
 </span>
+
+## Real quick👀
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+knitr::include_graphics("figures/newsletter.png")
+```
